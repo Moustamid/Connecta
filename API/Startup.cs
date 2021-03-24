@@ -6,23 +6,27 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Persistence;
 
 namespace API
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        private readonly IConfiguration _config;
+        public Startup(IConfiguration config)
         {
+            _config = config;
             // configuration is the object in the appsettings.development.json file
-            Configuration = configuration;
+            // Configuration = configuration;   "before refactering"
         }
 
-        public IConfiguration Configuration { get; }
+        // public IConfiguration Configuration { get; } "before refactering"
 
         // This method gets called by the runtime. Use this method to add services to the container.
         // the container => dependency ingection conatiner
@@ -35,6 +39,10 @@ namespace API
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "API", Version = "v1" });
             });
+            // EntityFramework
+            // Sqlite need our connection string , based in the configuration
+            services.AddDbContext<DataContext>(options => options.UseSqlite(_config.GetConnectionString("DefaultConnection")));
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

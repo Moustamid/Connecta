@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8lcDTNTIHHCnHzc/s+t2gKkwmctukuU/1lh0Ordx6VJPHg+lYefc41FVpXXoctDP8LdfCcqTy5JG892il9LGBQ==",
+  "dgSpecHash": "2UzmY+Jwwcg+VEfC/k/yXkQd8JtNLXpXZ8moTe61/Z83/O7ntQPgBMy6UvdAwxD/F9PZ27sFnGauQ6UXHukAXQ==",
   "success": true,
   "projectFilePath": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Moustamid\\.nuget\\packages\\pastel\\2.1.0\\pastel.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
