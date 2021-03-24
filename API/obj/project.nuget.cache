@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RDx9I4YL/MNz+afrXtfiUNBlrOusvmgbVsF9c9lXM2FA4K9cVMDb8CQzjlBPAkA5L/yK6CQSA3QgW4MCKwreUg==",
+  "success": true,
+  "projectFilePath": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moustamid\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Moustamid\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Moustamid\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Moustamid\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Moustamid\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Moustamid\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
