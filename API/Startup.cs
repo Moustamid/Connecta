@@ -18,16 +18,19 @@ namespace API
     {
         public Startup(IConfiguration configuration)
         {
+            // configuration is the object in the appsettings.development.json file
             Configuration = configuration;
         }
 
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
+        // the container => dependency ingection conatiner
         public void ConfigureServices(IServiceCollection services)
         {
 
             services.AddControllers();
+            // api testing from Microsoft
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "API", Version = "v1" });
@@ -44,7 +47,7 @@ namespace API
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "API v1"));
             }
 
-            app.UseHttpsRedirection();
+            // app.UseHttpsRedirection();
 
             app.UseRouting();
 
