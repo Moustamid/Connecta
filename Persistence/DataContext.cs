@@ -10,6 +10,6 @@ namespace Persistence
         }
 
 
-        public DbSet<Connecta> Connections { get; set; }
+        public DbSet<Activity> Activities { get; set; }
     }
 }

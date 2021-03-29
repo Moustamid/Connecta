@@ -2,7 +2,7 @@ using System;
 
 namespace Domain
 {
-    public class Connecta
+    public class Activity
     {
         public Guid Id { get; set; }
         public string Title { get; set; }
@@ -13,7 +13,3 @@ namespace Domain
         public string Venue { get; set; }
     }
 }
-
-
-
-// Guid to generate the Id on the client side
