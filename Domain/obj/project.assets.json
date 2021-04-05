@@ -43,11 +43,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "d:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj",
+      "projectPath": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Moustamid\\.nuget\\packages\\",
-      "outputPath": "d:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Domain\\obj\\",
+      "outputPath": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Moustamid\\AppData\\Roaming\\NuGet\\NuGet.Config",

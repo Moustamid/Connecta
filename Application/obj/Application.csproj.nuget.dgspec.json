@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Application\\Application.csproj": {}
+    "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Application\\Application.csproj": {
+    "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Application\\Application.csproj",
+        "projectPath": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Moustamid\\.nuget\\packages\\",
-        "outputPath": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Application\\obj\\",
+        "outputPath": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Moustamid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj"
+              "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj"
               },
-              "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Persistence\\Persistence.csproj"
+              "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj": {
+    "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj",
+        "projectPath": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Moustamid\\.nuget\\packages\\",
-        "outputPath": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Domain\\obj\\",
+        "outputPath": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Moustamid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,14 +131,14 @@
         }
       }
     },
-    "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Persistence\\Persistence.csproj": {
+    "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Persistence\\Persistence.csproj",
+        "projectPath": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Moustamid\\.nuget\\packages\\",
-        "outputPath": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Persistence\\obj\\",
+        "outputPath": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Moustamid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,8 +155,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj"
+              "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Domain\\Domain.csproj"
               }
             }
           }

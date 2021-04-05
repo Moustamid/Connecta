@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J9Pqfq1rm8XR1OipGkw4itoPEPwp2PRMJwr9zRv5BGCtvyqz8Q/89l3QsU2d91gePOiIliw9IfLCoJvcU9csSw==",
+  "dgSpecHash": "VawbCFLGvi/Cgk+25HPS+2ZWbvWOMN7aZyJhoIXjlkRqhK+MF+Ife6H7mmV9iYY2FSR9ho7XkMc9vW2CVDjQUQ==",
   "success": true,
-  "projectFilePath": "D:\\00-Developer World\\03-FullStack\\01-ASP.Net\\02-Core\\Connecta\\Application\\Application.csproj",
+  "projectFilePath": "D:\\00-Developer World\\03-FullStack\\08-ASP.Net\\02-Core\\Connecta\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Moustamid\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.4\\microsoft.data.sqlite.core.5.0.4.nupkg.sha512",
     "C:\\Users\\Moustamid\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
